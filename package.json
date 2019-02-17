@@ -1,6 +1,6 @@
 {
   "name": "render-reducer",
-  "version": "0.0.0-pre",
+  "version": "0.0.0",
   "description": "The Compiled Version Of The @Reducer/Render.",
   "main": "build/index.js",
   "module": "src/index.js",
